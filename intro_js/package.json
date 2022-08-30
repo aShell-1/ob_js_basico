@@ -1,0 +1,15 @@
+{
+  "name": "exer1",
+  "version": "1.0.0",
+  "description": "Este es un ejercicio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio"
+  ],
+  "author": "yo",
+  "license": "ISC"
+}

@@ -1,0 +1,4 @@
+## Iniciar
+```bash
+$ npm start
+```
