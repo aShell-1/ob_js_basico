@@ -1,0 +1,10 @@
+let nombre = 'Axell'
+let apellido = 'Gutierrez'
+let estudiante = nombre.concat(" ", apellido)
+let estudianteMayus = estudiante.toUpperCase()
+let estudianteMinus = estudiante.toLowerCase()
+let numeroletras = estudiante.length
+let primeraletra = nombre.charAt(0)
+let ultimaletra = apellido.charAt(apellido.length - 1)
+let sinespacios = estudiante.replace(' ', '')
+let booleana = estudiante.includes(nombre)
