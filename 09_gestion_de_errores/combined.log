@@ -1,0 +1,6 @@
+{"level":"error","message":"Pusiste algo mal, bro.","service":"user-service"}
+{"level":"error","message":"Pusiste algo mal, bro.","service":"user-service"}
+{"level":"error","message":"Error: Esos no son número, bro","service":"user-service"}
+{"level":"error","message":"Error: Esos no son número, bro","service":"user-service"}
+{"level":"error","message":"Error: Esos no son número, bro","service":"user-service"}
+{"level":"error","message":"ReferenceError: resultado is not defined","service":"user-service"}
